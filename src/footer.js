@@ -22,7 +22,7 @@ export function setupFooter (element) {
         <button class="p-2 rounded-full bg-light-grayish-blue hover:bg-grayish-blue [&:hover_path]:fill-white" data-load=${iconShare} data-button></button>
       </div>
     </div>
-    <div id="social" class="flex justify-between items-center basis-full flex-shrink-0 py-[1.1rem] px-8 bg-very-dark-grayish-blue rounded-b-lg transition-transform md:absolute md:top-0 md:right-0 md:z-50 md:rounded-lg md:translate-x-[43.25%] md:-translate-y-[140%] after:absolute after:hidden after:w-4 after:aspect-square after:left-2/4 after:bottom-0 after:bg-inherit after:-translate-x-2/4 after:translate-y-2/4 after:rotate-45 md:after:block">
+    <div id="social" class="flex justify-between items-center basis-full flex-shrink-0 py-[1.1rem] px-8 bg-very-dark-grayish-blue rounded-b-lg transition-transform md:absolute md:top-0 md:right-0 md:z-50 md:hidden md:rounded-lg md:translate-x-[43.25%] md:-translate-y-[140%] after:absolute after:hidden after:w-4 after:aspect-square after:left-2/4 after:bottom-0 after:bg-inherit after:-translate-x-2/4 after:translate-y-2/4 after:rotate-45 md:after:block">
       <div class="flex gap-x-[1.125rem]">
         <div class="uppercase font-bold text-body tracking-[.275rem] text-desaturated-dark-blue">Share</div>
         <div class="flex items-center gap-x-4">
